@@ -1,0 +1,26 @@
+There are two types of loops : 
+
+While loops : Until the condition is True run this loop.
+
+Example --> 
+
+    count = 1 # (Iterators) makes (Iterations)
+
+    while count <= 5:
+        print(f"Yahoo : {count}")
+        count += 
+
+------------------------------------------------------
+
+For Loops :  For loops are used for sequential traversel 
+
+Example -->
+
+    num = [1,2,3,4,5,6,7,8,9]
+    names = ["Sarthak", "Shubham", "Manas", "Siddhesh"]
+
+    for val in num:
+         print(val)
+
+    for n in names:
+        print(n)
